@@ -1,0 +1,10 @@
+conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+pip install stable-baselines3
+pip install opencv-contrib-python==4.5.5.64
+pip install requests
+pip install python-firebase
+pip install pyserial
+pip install pygame
+pip install optuna
+pip install tqdm
+pip install imutils
